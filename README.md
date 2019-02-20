@@ -14,7 +14,7 @@ loguru==0.2.5
 polib==1.1.0
 PySimpleGUI==3.24.0
 ```
-You can install them manually, or just go to your python environment and then do the following step:
+You can install them manually, or just go to your python environment and do the following steps:
 ```
 git clone https://github.com/hiadore/po2mo.git
 cd po2mo
