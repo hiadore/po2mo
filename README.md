@@ -18,7 +18,7 @@ You can install them manually, or just go to your python environment and then do
 ```
 git clone https://github.com/hiadore/po2mo.git
 cd po2mo
-python -m pip install -r requirement.txt
+python -m pip install -r requirements.txt
 ```
 
 ### To Run
